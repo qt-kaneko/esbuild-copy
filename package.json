@@ -1,0 +1,10 @@
+{
+  "name": "@qt-kaneko/esbuild-copy",
+  "version": "1.0.0",
+  "license": "AGPL-3.0-only",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^22.1.0",
+    "esbuild": "^0.23.0"
+  }
+}
